@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fgasfsfsdafdsfdsafsdfsda od glownego
+=======
+fgasfsfsdafdsfdsafsdfsda od drugiego
+>>>>>>> 57ded5b (drugi)
